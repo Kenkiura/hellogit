@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+  background-image: url('img patterns.jpg');
+
+.brown{
+    background-color: brown;
+    
+}
+.portfolio{
+    border: 5px solid black;
+  padding: 30px;
+  background:;
+  background-repeat: no-repeat;
+  background-size: auto;
